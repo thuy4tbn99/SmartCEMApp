@@ -19,6 +19,9 @@ Follow as the documentation in official frappe https://docs.frappe.io/framework/
 | **Yarn**         | 1.12+ 
 | **pip**          | 20+          
 
+## Backup data
+Google-drive: [link](https://drive.google.com/drive/folders/1LbASSmtLfMfHyj-g0kzqRzf_L1GEphdb?usp=sharing)
+
 ## 2. Apps
 
 Install order:
