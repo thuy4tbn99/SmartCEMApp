@@ -1,0 +1,12 @@
+frappe 15.x.x-develop develop (d35b4b3)
+hotel_recommend 0.0.1 develop (9be52d0)
+vinif 0.0.2 develop (2ef598c)
+Python 3.10.20
+v18.17.0
+1.22.19
+5.29.1
+mysql  Ver 15.1 Distrib 10.6.22-MariaDB, for debian-linux-gnu (x86_64) using  EditLine wrapper
+Redis server v=6.0.16 sha=00000000:0 malloc=jemalloc-5.2.1 bits=64 build=e91d7986ac6d5bb6
+
+vinif: 
+- git commit: 2ef598cb81cb401a29998f5b6fc73e72a917e5f3

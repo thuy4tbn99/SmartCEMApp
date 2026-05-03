@@ -1,0 +1,10 @@
+{
+    "db_host": "192.x.x.x", 
+    "db_name": "dbname",
+    "db_user": "dbname",
+    "db_password": "dbpassword",
+    "db_port": 9800,
+    "db_type": "postgres",
+    "developer_mode": 1,
+    "server_script_enabled": true
+} 
